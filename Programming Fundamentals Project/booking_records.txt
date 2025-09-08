@@ -1,0 +1,75 @@
+Vehicle: Rickshaw
+Pick-Up: Kemari
+Drop-Off: DHA
+Distance: 10 KM
+Fare: 100
+Driver: Ahmed
+
+Vehicle: Rickshaw
+Pick-Up: Kemari
+Drop-Off: DHA
+Distance: 10 KM
+Fare: 100
+Driver: Omar
+
+Vehicle: Rickshaw
+Pick-Up: Tower
+Drop-Off: Clifton
+Distance: 15 KM
+Fare: 150
+Driver: Ahmed
+
+Vehicle: Motorcycle
+Pick-Up: Tower
+Drop-Off: Kemari
+Distance: 12 KM
+Fare: 60
+Driver: Ahmed
+
+Vehicle: AC Car
+Pick-Up: Numaish
+Drop-Off: Gulshan-e-Hadeed
+Distance: 40 KM
+Fare: 800
+Driver: Omar
+
+Phone: 03030720728
+Vehicle: Rickshaw
+Pick-Up: Kemari
+Drop-Off: Clifton
+Distance: 12 KM
+Fare: 120
+Driver: Ahmed
+
+Phone: 03030720728
+Vehicle: Mini Car
+Pick-Up: Gulshan-e-Iqbal
+Drop-Off: Drigh Road
+Distance: 10 KM
+Fare: 150
+Driver: Ahmed
+
+Phone: 03123567890
+Vehicle: Rickshaw
+Pick-Up: Tower
+Drop-Off: Johar
+Distance: 15 KM
+Fare: 150
+Driver: Ahmed
+
+Phone: 03123567890
+Vehicle: AC Car
+Pick-Up: North Karachi
+Drop-Off: Gulshan-e-Hadeed
+Distance: 50 KM
+Fare: 1000
+Driver: Ahmed
+
+Phone: 03123456789
+Vehicle: AC Car
+Pick-Up: Gulshan-e-Iqbal
+Drop-Off: Tower
+Distance: 10 KM
+Fare: 200
+Driver: Ahmed
+
