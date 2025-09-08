@@ -1,6 +1,6 @@
 # 🚖 CLI-Based Taxi Booking System
 
-A simple **command-line interface (CLI) application** built in **C** for taxi booking management.  
+A simple **command-line interface (CLI) application** built in **C** for taxi booking management as my **1st Semester Final Project In Programming Fundamentals Course**.  
 The system allows **user registration, login, taxi booking, fare calculation, driver assignment, booking history**, and **phone number updates** using **file-based storage**.
 
 ---
